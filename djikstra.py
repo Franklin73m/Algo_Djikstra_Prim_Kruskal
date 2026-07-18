@@ -1,6 +1,8 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
+# Dijkstra's algorithm implementation with visualization
+
 G = nx.Graph()
 
 edges = [
