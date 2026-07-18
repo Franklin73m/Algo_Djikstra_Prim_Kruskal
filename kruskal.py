@@ -2,6 +2,9 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import networkx as nx
 
+# Trier les arêtes par poids croissant
+
+
 # ─────────────────────────────────────────
 # Union-Find
 # ─────────────────────────────────────────
