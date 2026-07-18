@@ -3,6 +3,7 @@ import matplotlib.patches as mpatches
 import networkx as nx
 
 # Trier les arêtes par poids croissant
+# Ajouter les arêtes à l'ACM si elles ne forment pas de cycle
 
 
 # ─────────────────────────────────────────
