@@ -2,6 +2,8 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
+# Primer's algorithm implementation with visualization
+
 # 1. Création du graphe complet
 G = nx.Graph()
 edges = [
